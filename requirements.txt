@@ -1,5 +1,6 @@
 certifi
 chardet
+Click
 cufflinks
 dash
 dash-core-components
@@ -7,8 +8,10 @@ dash-html-components
 dash-renderer
 dash-table
 dask
+decorator
 Flask
 Flask-Compress
+gunicorn
 html5lib
 ipython-genutils
 numpy
