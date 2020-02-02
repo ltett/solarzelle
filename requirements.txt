@@ -1,4 +1,3 @@
-datetime
 io
 certifi
 chardet
